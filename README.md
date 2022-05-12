@@ -1,1 +1,1 @@
-# spring_java_config_sample
+# Basic Spring MVC Project 
